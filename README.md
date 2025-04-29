@@ -34,9 +34,9 @@ Powerups are this project’s primary distinguishing feature: they introduce an 
 
 For example, we have added a powerup called **Free Lunch**, which awards the player the max number of points earned by any other user in that round. However, keep in mind that there's no such thing as a free lunch...especially when no one gets the answer right!
 
-### Bonus: Emotes
+### Bonus: Emotes 😤😆🔥
 
-To make gameplay more engaging, players can also send fun emotes to express their reactions in real time. 😤😆🔥
+To make gameplay more engaging, players can also send fun emotes to express their reactions in real time.
 
 # Contributors
 
@@ -44,7 +44,7 @@ Many thanks to the following authors for bringing this game to life!
 
 - **Alex Day**
 - **April Ju**
-- **Ariel Vetshchaizer**
+- **Ariel Vetshchaizer** (Crowned Trivia King™ during app testing chaos 👑)
 - **Vicky Chen**
 
 
