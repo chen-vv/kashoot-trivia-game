@@ -1,7 +1,9 @@
 # Kashoot! - A Multiplayer Trivia Game for Android
 This project hosts live, online multiplayer trivia games, where users compete amongst themselves for the highest score. Users can create their own game rooms, join public game rooms via random matchmaking, or join private game rooms via unique game room codes. 
 
-![Demo of app screens](https://github.com/chen-vv/kashoot-trivia-game/blob/4b3579f9c7d92efb131ce93a2ad8cc65f572ae3e/demo.gif)
+<p align="center">
+  <img src="https://github.com/chen-vv/kashoot-trivia-game/blob/4b3579f9c7d92efb131ce93a2ad8cc65f572ae3e/demo.gif" alt="Demo of app screens" height="500">
+</p>
 
 Each game room has settings that can be adjusted by the game room creator, such as the following: 
 - Number of seconds allotted for answering each question
